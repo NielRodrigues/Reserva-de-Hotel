@@ -1,3 +1,3 @@
-#RESERVA DE HOTEL - Site
+# RESERVA DE HOTEL - Site
 
 Esse foi um projeto que eu desenvolvi para aplicar os meus conhecimentos no framework de 'Bootstrap'. O projeto tinha como principal objetivo em utilizar classes do Bootstrap, trabalhar com tags e formulários. Não foi feita nenhuma automoção utilizando Javascript para esse projeto. Eu apenas apliquei meus conhecimentos para trabalhar com UX/UI Design, bem como conhecimentos avançandos em HTML e CSS. Para esse projeto eu utilizei, além de HTML5 e CSS3, o pré-processador CSS, o Sass, como também Framework do CSS, o Bootstrap. Eu também utilizei alguma bibliotecas como a Font Awesome e Materialize Icons.
